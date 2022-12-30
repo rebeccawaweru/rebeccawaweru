@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 ![giphy](https://user-images.githubusercontent.com/79188888/210053542-306e13d5-26d2-4e93-abd1-ed7401890c79.gif)
+![giphy](https://user-images.githubusercontent.com/79188888/210053841-8c2bdaa0-54ec-497f-af95-6b10b2d4c4fd.jpg)
+
 
 I am Rebecca Waweru, a Full-Stack JavaScript developer.I love writing clean and maintainable code.
 Find out more about me & feel free to connect with me here:
