@@ -1,9 +1,10 @@
 ### Hi there 👋
-
+![giphy](https://user-images.githubusercontent.com/79188888/210053542-306e13d5-26d2-4e93-abd1-ed7401890c79.gif)
 I am Rebecca Waweru, a Full-Stack JavaScript developer.I love writing clean and maintainable code. Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-rebeccawaweru-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rebecca-waweru-380062205)](https://www.linkedin.com/in/rebecca-waweru-380062205)
 [![Gmail Badge](https://img.shields.io/badge/-wawerur95@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wawerur95@gmail.com)](mailto:wawerur95@gmail.com)
+
 
 
 
