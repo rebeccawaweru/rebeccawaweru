@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Rebecca Waweru, a Software Developer.I love writing clean and maintainable code.![giphy](https://user-images.githubusercontent.com/79188888/210053542-306e13d5-26d2-4e93-abd1-ed7401890c79.gif)
+![giphy](https://user-images.githubusercontent.com/79188888/210053542-306e13d5-26d2-4e93-abd1-ed7401890c79.gif)
 
 Find out more about me & feel free to connect with me here:
 
